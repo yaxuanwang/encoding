@@ -1,4 +1,4 @@
 # encoding
-new buffer management data structures
+New buffer management data structures
 
 *_test are files modified or rewritten <br>
